@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.8kkjj.com/atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-TW">
+  <id>https://www.8kkjj.com/</id>
+  <title/>
+  <icon>https://www.8kkjj.com/favicon.ico</icon>
+  <rights>Copyright © 2025-至今 Gimes</rights>
+  <updated>2025-11-04T08:56:13.349Z</updated>
+  <generator>@vuepress/plugin-feed</generator>
+  <link rel="self" href="https://www.8kkjj.com/atom.xml"/>
+  <link rel="alternate" href="https://www.8kkjj.com/"/>
+</feed>

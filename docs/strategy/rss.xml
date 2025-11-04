@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.8kkjj.com/strategy/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://www.8kkjj.com/strategy/rss.xml" rel="self" type="application/rss+xml"/>
+    <title></title>
+    <link>https://www.8kkjj.com/strategy/</link>
+    <description></description>
+    <language>zh-TW</language>
+    <pubDate>Tue, 04 Nov 2025 08:56:45 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 08:56:45 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <copyright>Copyright © 2025-至今 Gimes</copyright>
+    <category>攻略</category>
+    <item>
+      <title>遊戲攻略</title>
+      <link>https://www.8kkjj.com/strategy/</link>
+      <guid>https://www.8kkjj.com/strategy/</guid>
+      <source url="https://www.8kkjj.com/strategy/rss.xml">遊戲攻略</source>
+      <description>最新攻略 《不氪金》官方网站致力于为玩家提供最专业的游戏攻略！</description>
+      <category>攻略</category>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>最新攻略</h2>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
