@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://www.8kkjj.com/strategy/2025/12/sitemap.xml
